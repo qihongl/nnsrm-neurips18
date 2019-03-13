@@ -24,6 +24,9 @@ Files under root:
 - `data_loader.py`: util for loading data 
 
 
+### Other files: 
+- `qmvpa`: contains some analyses util functions
+
 ### Dependencies: 
 
 [1] <a href="https://github.com/philipperemy/keract">philipperemy/keract</a>
