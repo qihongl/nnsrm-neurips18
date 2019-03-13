@@ -5,20 +5,6 @@ This is the repo for ...
 Lu, Q., Chen, P.-H., Pillow, J. W., Ramadge, P. J., Norman, K. A., & Hasson, U. (2018). 
 Shared Representational Geometry Across Neural Networks. arXiv [cs.LG]. 
 Retrieved from http://arxiv.org/abs/1811.11684
-
-
-@ARTICLE{Lu2018-ne,
-  title         = "Shared Representational Geometry Across Neural Networks",
-  author        = "Lu, Qihong and Chen, Po-Hsuan and Pillow, Jonathan W and
-                   Ramadge, Peter J and Norman, Kenneth A and Hasson, Uri",
-  month         =  nov,
-  year          =  2018,
-  url           = "http://arxiv.org/abs/1811.11684",
-  archivePrefix = "arXiv",
-  primaryClass  = "cs.LG",
-  eprint        = "1811.11684"
-}
-
 ```
 
 ### What is this project about?
