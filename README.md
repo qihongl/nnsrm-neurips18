@@ -9,8 +9,9 @@ Retrieved from http://arxiv.org/abs/1811.11684
 
 ### What is this project about?
 
-Here's a <a href="https://qihongl.github.io/nnsrm-NeurIPS18.html">5 mins version of that paper</a>. 
-Here's a interactive "tutorial" that shows you the minimal analysis pipeline. 
+- Here's a <a href="https://qihongl.github.io/nnsrm-NeurIPS18.html">5 mins version of that paper</a>. 
+
+- Here's a interactive "tutorial" that shows you the minimal analysis pipeline. 
 
 <br>
 
