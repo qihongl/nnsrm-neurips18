@@ -13,7 +13,6 @@ Retrieved from http://arxiv.org/abs/1811.11684
 
 - Here's a interactive "tutorial" that shows you the minimal analysis pipeline. 
 
-<br>
 
 ### Files for the simulation: 
 
