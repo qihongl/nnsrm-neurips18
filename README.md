@@ -2,9 +2,7 @@
 
 Shared representational geometry across neural networks 
 Lu, Q., Chen, P. H., Pillow, J. W., Ramadge, P. J., Norman, K. A., & Hasson, U. 
-Workshop on Integration of Deep Learning Theories, NeurIPS 2018. 
-
-<a href="https://arxiv.org/abs/1811.11684">arXiv</a>
+Workshop on Integration of Deep Learning Theories, NeurIPS 2018. <a href="https://arxiv.org/abs/1811.11684">arXiv</a>
 
 ### Dependencies: 
 
