@@ -7,7 +7,7 @@ Shared Representational Geometry Across Neural Networks. arXiv [cs.LG].
 Retrieved from http://arxiv.org/abs/1811.11684
 ```
 
-The shared response model (SRM) is implemented in <a href="https://github.com/brainiak/brainiak">BrainIAK</a>. 
+... and the shared response model (SRM) is implemented in <a href="https://github.com/brainiak/brainiak">BrainIAK</a>. 
 
 ### What is this project about?
 
