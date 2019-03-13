@@ -14,7 +14,9 @@ Retrieved from http://arxiv.org/abs/1811.11684
 - Here's a interactive tutorial that shows you the minimal analysis pipeline. 
 
 
-### Files for the simulation: 
+### Doc: 
+
+##### Files for the simulation: 
 
 Files under `simulation/`: 
 - `run_sim.ipynb`: run the simulation described in the paper
@@ -22,7 +24,7 @@ Files under `simulation/`:
 - `models.py`: define a simple neural network
 
 
-### Files for the experiments: 
+##### Files for the experiments: 
 
 Files under root: 
 
@@ -36,10 +38,10 @@ Files under root:
 - `data_loader.py`: util for loading data 
 
 
-### Other files: 
+##### Other files: 
 - `qmvpa`: contains some analyses util functions
 
-### Dependencies: 
+### Dependencies/References: 
 
 [1] <a href="https://github.com/philipperemy/keract">philipperemy/keract</a>
 
