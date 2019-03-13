@@ -7,6 +7,8 @@ Shared Representational Geometry Across Neural Networks. arXiv [cs.LG].
 Retrieved from http://arxiv.org/abs/1811.11684
 ```
 
+The shared response model (SRM) is implemented in <a href="https://github.com/brainiak/brainiak">BrainIAK</a>. 
+
 ### What is this project about?
 
 - 1 sentence summary: different neural networks trained on the same dataset learn representations with the same "shape" 
