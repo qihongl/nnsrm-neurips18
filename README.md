@@ -1,8 +1,6 @@
 # nnsrm-neurips18
 
-Shared representational geometry across neural networks 
-Lu, Q., Chen, P. H., Pillow, J. W., Ramadge, P. J., Norman, K. A., & Hasson, U. 
-Workshop on Integration of Deep Learning Theories, NeurIPS 2018. <a href="https://arxiv.org/abs/1811.11684">arXiv</a>
+Lu, Q., Chen, P.-H., Pillow, J. W., Ramadge, P. J., Norman, K. A., & Hasson, U. (2018). Shared Representational Geometry Across Neural Networks. arXiv [cs.LG]. Retrieved from http://arxiv.org/abs/1811.11684
 
 ### Dependencies: 
 
