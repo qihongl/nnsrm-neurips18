@@ -29,7 +29,7 @@ Retrieved from http://arxiv.org/abs/1811.11684
 
 #### Files for the experiments (Files under the root dir): 
 
-* The notebooks are not runnable yet, since they depend on some pre-computed data. I'm working on an easy way of hosting the data publicly. Though re-running the whole analysis should be possible. 
+*The notebooks are not runnable yet, since they depend on some pre-computed data. I'm working on an easy way of hosting the data publicly. Though re-running the whole analysis should be possible. 
 
 - `show_*.ipynb`: load some pre-computed data (e.g. activity from some pre-trained neural networks), apply certain analyses (e.g. SRM), then plot the results 
 - `train_*.py`: train some models (e.g. conv nets) on some dataset (e.g. cifar10)
