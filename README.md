@@ -2,6 +2,8 @@
 
 Lu, Q., Chen, P.-H., Pillow, J. W., Ramadge, P. J., Norman, K. A., & Hasson, U. (2018). Shared Representational Geometry Across Neural Networks. arXiv [cs.LG]. Retrieved from http://arxiv.org/abs/1811.11684
 
+Here's a <a href="https://qihongl.github.io/nnsrm-NeurIPS18.html">demo</a> that briefly describe the results of the paper. 
+
 ### Files for the simulation: 
 
 Files under `simulation/`: 
