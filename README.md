@@ -16,17 +16,14 @@ Retrieved from http://arxiv.org/abs/1811.11684
 
 ### Doc: 
 
-#### Files for the simulation: 
+#### Files for the simulation (under `simulation/`): 
 
-Files under `simulation/`: 
 - `run_sim.ipynb`: run the simulation described in the paper
 - `data_gen.py`: make toy data set to train NNs
 - `models.py`: define a simple neural network
 
 
-#### Files for the experiments: 
-
-Files under root: 
+#### Files for the experiments (Files under the root dir): 
 
 - `show_*.ipynb`: load some pre-computed data (e.g. activity from some pre-trained neural networks), apply certain analyses (e.g. SRM), then plot the results 
 - `train_*.py`: train some models (e.g. conv nets) on some dataset (e.g. cifar10)
