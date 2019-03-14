@@ -15,7 +15,7 @@ Retrieved from http://arxiv.org/abs/1811.11684
 
 - Here's a <a href="https://qihongl.github.io/nnsrm-NeurIPS18.html">5 mins version of that paper</a>. 
 
-- Here's a <a href="https://github.com/qihongl/demo-nnalign">tutorial</a> that describe the minimal analysis pipeline. I'm working on converting this to a jupyter binder or something interactive...
+- Here's a <a href="https://colab.research.google.com/github/qihongl/demo-nnalign/blob/master/demo-nnalign.ipynb">google colab tutorial</a> that describes the minimal analysis pipeline. And here's its <a href="https://github.com/qihongl/demo-nnalign">repo</a>. 
 
 
 ### Doc: 
