@@ -11,7 +11,8 @@ Retrieved from http://arxiv.org/abs/1811.11684
 
 Fig left: before alignment; Fig right: after alignment
 
-### What is this project about?
+
+## What is this project about?
 
 - 1 sentence summary: **different neural networks with the same learning experience acquire representations of the same "shape"** 
 
