@@ -7,6 +7,10 @@ Shared Representational Geometry Across Neural Networks. arXiv [cs.LG].
 Retrieved from http://arxiv.org/abs/1811.11684
 ```
 
+<img src="https://github.com/qihongl/qihongl.github.io/blob/master/anims/nnsrm/beforesrm_resnet18_cifar100_e100_l55.gif" width="300"><img src="https://github.com/qihongl/qihongl.github.io/blob/master/anims/nnsrm/resnet18_cifar100_e100_l55.gif" width="300">
+
+Fig left: before alignment; Fig right: after alignment
+
 ### What is this project about?
 
 - 1 sentence summary: **different neural networks with the same learning experience acquire representations of the same "shape"** 
