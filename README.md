@@ -2,20 +2,19 @@
 
 This is the repo for ... 
 ```
-Lu, Q., Chen, P.-H., Pillow, J. W., Ramadge, P. J., Norman, K. A., & Hasson, U. (2018). 
+Lu, Q., Chen, P.H., Pillow, J. W., Ramadge, P. J., Norman, K. A., & Hasson, U. (2018). 
 Shared Representational Geometry Across Neural Networks. arXiv [cs.LG]. 
 Retrieved from http://arxiv.org/abs/1811.11684
 ```
-
-... and the shared response model (SRM) is implemented in <a href="https://github.com/brainiak/brainiak">BrainIAK</a>. 
 
 ### What is this project about?
 
 - 1 sentence summary: **different neural networks with the same learning experience acquire representations of the same "shape"** 
 
-- Here's a <a href="https://qihongl.github.io/nnsrm-NeurIPS18.html">5 mins version of that paper</a>. 
+- Here's a short tutorial that describes the minimal analysis pipeline: 
+<a href="https://colab.research.google.com/github/qihongl/demo-nnalign/blob/master/demo-nnalign.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>
 
-- Here's a interactive tutorial that shows you the minimal analysis pipeline. 
+- Here's a <a href="https://qihongl.github.io/nnsrm-NeurIPS18.html">5 mins version of that paper</a>. 
 
 
 ### Doc: 
@@ -46,10 +45,7 @@ Retrieved from http://arxiv.org/abs/1811.11684
 
 ### Dependencies/References: 
 
-[1] <a href="https://github.com/philipperemy/keract">philipperemy/keract</a>
-
-[2] <a href="https://github.com/raghakot/keras-resnet">raghakot/keras-resnet</a>
-
-[3] <a href="https://github.com/ContextLab/hypertools">hypertools</a>
-
-[4] <a href="https://github.com/brainiak/brainiak">BrainIAK</a>
+[1] <a href="https://github.com/philipperemy/keract">philipperemy/keract</a>  
+[2] <a href="https://github.com/raghakot/keras-resnet">raghakot/keras-resnet</a>  
+[3] <a href="https://github.com/ContextLab/hypertools">hypertools</a>  
+[4] <a href="https://github.com/brainiak/brainiak">BrainIAK</a>  
