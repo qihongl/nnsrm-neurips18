@@ -11,7 +11,7 @@ Retrieved from http://arxiv.org/abs/1811.11684
 
 - 1 sentence summary: **different neural networks with the same learning experience acquire representations of the same "shape"** 
 
-- Here's a <a href="https://colab.research.google.com/github/qihongl/demo-nnalign/blob/master/demo-nnalign.ipynb">google colab tutorial</a> that describes the minimal analysis pipeline. And here's its <a href="https://github.com/qihongl/demo-nnalign">repo</a>. 
+- Here's a short tutorial that describes the minimal analysis pipeline: <a href="https://colab.research.google.com/github/qihongl/demo-nnalign/blob/master/demo-nnalign.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>
 
 - Here's a <a href="https://qihongl.github.io/nnsrm-NeurIPS18.html">5 mins version of that paper</a>. 
 
