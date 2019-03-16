@@ -14,7 +14,7 @@ Retrieved from http://arxiv.org/abs/1811.11684
 - Here's a short tutorial that describes the minimal analysis pipeline: 
 <a href="https://colab.research.google.com/github/qihongl/demo-nnalign/blob/master/demo-nnalign.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>
 
-Here are activity trajectories from 5 resnets, when they are viewing the same sequence of images. 
+Here's a figure showing the activity trajectories from 5 resnets, when they are viewing the same sequence of images. 
 
 <img src="https://github.com/qihongl/qihongl.github.io/blob/master/anims/nnsrm/beforesrm_resnet18_cifar100_e100_l55.gif" width="300"><img src="https://github.com/qihongl/qihongl.github.io/blob/master/anims/nnsrm/resnet18_cifar100_e100_l55.gif" width="300"> 
 
