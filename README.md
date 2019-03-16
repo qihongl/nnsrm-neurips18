@@ -18,8 +18,8 @@ Here are activity trajectories from 5 resnets, when they are viewing the same se
 
 <img src="https://github.com/qihongl/qihongl.github.io/blob/master/anims/nnsrm/beforesrm_resnet18_cifar100_e100_l55.gif" width="300"><img src="https://github.com/qihongl/qihongl.github.io/blob/master/anims/nnsrm/resnet18_cifar100_e100_l55.gif" width="300"> 
 
-- Fig left: before alignment
-- Fig right: after alignment, it is apparent that their representations are highly similar
+- Fig left: before alignment; activity trajectories in native spaces 
+- Fig right: after alignment; it is clear that their representations are highly similar
 - Here're <a href="https://qihongl.github.io/nnsrm-NeurIPS18.html">more animations</a>. 
 
 <br>
