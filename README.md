@@ -7,14 +7,6 @@ Shared Representational Geometry Across Neural Networks. arXiv [cs.LG].
 Retrieved from http://arxiv.org/abs/1811.11684
 ```
 
-<img src="https://github.com/qihongl/qihongl.github.io/blob/master/anims/nnsrm/beforesrm_resnet18_cifar100_e100_l55.gif" width="300"><img src="https://github.com/qihongl/qihongl.github.io/blob/master/anims/nnsrm/resnet18_cifar100_e100_l55.gif" width="300">
-
-The activity trajectories from 5 resnets, when they are viewing the same sequence of images 
-- Fig left: before alignment
-- Fig right: after alignment, it is apparent that their representations are highly similar
-
-<br>
-
 ## What is this project about?
 
 - 1 sentence summary: **different neural networks with the same learning experience acquire representations of the same "shape"** 
@@ -22,7 +14,15 @@ The activity trajectories from 5 resnets, when they are viewing the same sequenc
 - Here's a short tutorial that describes the minimal analysis pipeline: 
 <a href="https://colab.research.google.com/github/qihongl/demo-nnalign/blob/master/demo-nnalign.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open and Execute in Google Colaboratory"></a>
 
-- Here's a <a href="https://qihongl.github.io/nnsrm-NeurIPS18.html">5 mins version of that paper</a>. 
+Here are activity trajectories from 5 resnets, when they are viewing the same sequence of images. 
+
+<img src="https://github.com/qihongl/qihongl.github.io/blob/master/anims/nnsrm/beforesrm_resnet18_cifar100_e100_l55.gif" width="300"><img src="https://github.com/qihongl/qihongl.github.io/blob/master/anims/nnsrm/resnet18_cifar100_e100_l55.gif" width="300"> 
+
+- Fig left: before alignment
+- Fig right: after alignment, it is apparent that their representations are highly similar
+- Here're <a href="https://qihongl.github.io/nnsrm-NeurIPS18.html">more animations</a>. 
+
+<br>
 
 
 ### Doc: 
