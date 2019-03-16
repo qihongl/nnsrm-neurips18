@@ -22,9 +22,6 @@ Here are activity trajectories from 5 resnets, when they are viewing the same se
 - Fig right: after alignment; it is clear that their representations are highly similar
 - Here're <a href="https://qihongl.github.io/nnsrm-NeurIPS18.html">more animations</a>. 
 
-<br>
-
-
 ### Doc: 
 
 #### Files for the simulation (under `simulation/`): 
